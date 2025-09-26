@@ -122,3 +122,8 @@ Regarding "Intellectual Property Rights & Trademark Protection Policy", section 
 
 For any inquiries regarding this document or to request formal updates, please contact our Legal Compliance Department at support@toylandstore.com. We are committed to resolving queries in a timely manner.
 
+
+
+### Amendment Clause 14.12
+
+This policy section was formally revised to expand operational guidelines. All transactions and platform usage governed under this clause conform strictly to international retail customer safety acts.
