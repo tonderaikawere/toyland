@@ -127,3 +127,8 @@ For any inquiries regarding this document or to request formal updates, please c
 ### Amendment Clause 14.0
 
 This policy section was formally revised to expand operational guidelines. All transactions and platform usage governed under this clause conform strictly to international retail customer safety acts.
+
+
+### Amendment Clause 15.0
+
+This policy section was formally revised to expand operational guidelines. All transactions and platform usage governed under this clause conform strictly to international retail customer safety acts.
