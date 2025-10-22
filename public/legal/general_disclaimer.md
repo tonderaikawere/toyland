@@ -132,3 +132,8 @@ This policy section was formally revised to expand operational guidelines. All t
 ### Amendment Clause 15.13
 
 This policy section was formally revised to expand operational guidelines. All transactions and platform usage governed under this clause conform strictly to international retail customer safety acts.
+
+
+### Amendment Clause 16.13
+
+This policy section was formally revised to expand operational guidelines. All transactions and platform usage governed under this clause conform strictly to international retail customer safety acts.
